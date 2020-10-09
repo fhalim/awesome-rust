@@ -337,7 +337,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [watchexec](https://github.com/watchexec/watchexec) — Executes commands in response to file modifications [![build badge](https://api.travis-ci.org/watchexec/watchexec.svg?branch=master)](https://travis-ci.org/watchexec/watchexec)
 * [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) — counts the lines of code [![build badge](https://api.travis-ci.org/XAMPPRocky/tokei.svg?branch=master)](https://travis-ci.org/XAMPPRocky/tokei)
 * [yake](https://crates.io/crates/yake) — Yake is a task runner based on yaml files [![build badge](https://gitlab.com/elbartus/yake/badges/master/pipeline.svg)](https://gitlab.com/elbartus/yake)
-* [ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust [![Build status](https://github.com/cjbassi/ytop/workflows/Rust%20CI/badge.svg?branch=master)](https://github.com/cjbassi/ytop/actions?query=workflow%3A%22Rust+CI%22)
+* [bottom](https://github.com/ClementTsang/bottom) - A cross-platform graphical process/system monitor with a customizable interface [![Build Status](https://travis-ci.com/ClementTsang/bottom.svg?token=1wvzVgp94E1TZyPNs8JF&branch=master)](https://travis-ci.com/ClementTsang/bottom)
 
 ### Text editors
 
